@@ -1,4 +1,4 @@
-# Spam Email Classifier
+# US Election Data Exploration
 
 This project was done as a course assignment for CS418: Introduction to Data Science course at the University of Illinois at Chicago during the Fall 2019 term along with teammates [Yushenli1996](https://github.com/Yushenli1996) and [nathanhe789](https://github.com/nathanhe789).
 
