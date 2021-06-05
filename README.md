@@ -27,8 +27,8 @@ The main purpose of the assignment was to perform Exploratory Data Analysis on t
 
 * Create choropleth map to visualize the majority political party of each county
 
-  ![img](https://lh3.googleusercontent.com/UzEIY3xuEeri1sd6ixbbhojC4NdmkDaMLJ43qPAz2LfKlyI1h0OwXlb85y2PtvXrPp0L8Ug8JwxYB3k8P_swoMhaAxPMKu5R93FItCseqTxLmRngV7l5xu3ZcBvxOze4iwnvhv7W)
+  ![img](votes.png)
 
 ----------
 
-Check out the [Jupyter Notebook](US_Election_data.ipynb "US Election Data Exploration") or [the project report](https://docs.google.com/document/d/1vKmAy0ut-37N8ir_a0vG8WEXigUrNc6Ugm6HC5COfFA/edit?usp=sharing "Project Report") to see the data science flow implemented.
+Check out the [Jupyter Notebook](US_Election_data.ipynb "US Election Data Exploration") or [the project report](Report.pdf "Project Report") to see the data science flow implemented.
